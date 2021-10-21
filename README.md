@@ -1,3 +1,3 @@
 # ThinkCPP
 
-Text and code for Think C++ by Allen Downey
+Translate to Persian Think C++ 

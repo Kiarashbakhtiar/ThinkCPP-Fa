@@ -1,3 +1,3 @@
 # ThinkCPP
 
-Translate to Persian Think C++ 
+Translate of the Think C++ in Persian language 

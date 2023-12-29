@@ -1,0 +1,138 @@
+\documentclass{book}
+\usepackage[a4paper,includeheadfoot,margin=2.54cm]{geometry}
+\providecommand{\tightlist}{
+\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{fontspec}
+\usepackage{listings}
+\usepackage[stable]{footmisc}
+\usepackage{fontspec}
+\lstset {language=C++}
+%% Set line spacing
+\usepackage{setspace}
+\setstretch{1.2}
+%% Disable paragraph indentation
+\usepackage{parskip}
+%% Start sections from new page
+%\let\stdsection\section
+%\renewcommand\section{\newpage\stdsection}
+% Colors
+\usepackage{xcolor}
+%% Tango color scheme
+\definecolor{SkyBlue}{HTML}{3465A4}
+\definecolor{DarkSkyBlue}{HTML}{204A87}
+\definecolor{Plum}{HTML}{75507B}
+\definecolor{Green}{HTML}{4F8124}
+\definecolor{Aluminium1}{HTML}{F8F8F8}
+\definecolor{Aluminium6}{HTML}{2e3436}
+\definecolor{Black}{HTML}{000000}
+% Listings
+\usepackage{listings}
+\lstdefinestyle{myStyle}{
+	belowcaptionskip=1\baselineskip,
+	breaklines=true,
+	frame=none,
+	numbers=none, 
+	basicstyle=\footnotesize\ttfamily,
+	keywordstyle=\bfseries\color{green!40!black},
+	commentstyle=\itshape\color{purple!40!black},
+	identifierstyle=\color{blue},
+	backgroundcolor=\color{gray!10!white},
+}
+\usepackage{graphicx}
+
+\usepackage{enumerate}
+%% Disable section numbers
+\setcounter{secnumdepth}{0}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,      
+	urlcolor=cyan,
+}
+\usepackage{epsfig}
+\usepackage{makeidx}
+\usepackage{url}
+\pssilent
+\usepackage{graphicx}
+\usepackage{xepersian}
+%\settextfont{Vazirmatn}[
+%Path = ./fonts/ ]
+\settextfont{HM_FZar}[
+Path = ./fonts/,%
+BoldFont={HM_FZarBd},%
+ItalicFont={HM_FZarIt},%
+BoldItalicFont={HM_FZarBdIt},%
+SlantedFont={HM_FZarOb},%
+BoldSlantedFont={HM_FZarObBd}]
+
+\usepackage{perpage} %the perpage package
+\MakePerPage{footnote} %the perpage package command
+\begin{document}
+\thispagestyle{empty}
+\begin{titlepage}
+ \vspace*{1cm}
+ 
+ 
+ {\huge\raggedleft پندار \texttt{C++} \par}
+ \noindent\hrulefill\par
+ {\LARGE\raggedright آلن بی. دوونی\par}
+ \vfill
+ {\small\raggedright کیارش بختیار\par}
+ \setcounter{page}{0}
+\end{titlepage}
+
+
+\section{حق تکثیر}
+کتاب به\texttt{C++} بیندیش تحت مجوز بین‌المللی   \lr{Attribution-NonCommercial-ShareAlike} نسخه ۴٫۰ منتشر شده‌است. 
+متن کامل \textbf{مجوز} را می‌توانید در نشانی زیر مشاهده کنید:
+
+\begin{latin}
+\url{https://creativecommons.org/licenses/by-nc-sa/4.0/}
+\end{latin}
+اگر علاقه‌مند به توزیع تجاری این اثر هستید، با نویسنده تماس بگیرید. 
+منبع لاتِکْ (\lr{\LaTeX}) و کدهای این کتاب در نشانی زیر در دسترس قرار دارد.
+\begin{latin}
+	\url{https://github.com/AllenDowney/ThinkCPP}
+\end{latin}
+
+\newpage
+
+\section{یاداداشت مترجم}
+شاید اغراق نباشد که بگویم انگیزه‌ام از ترجمه این کتاب بیشتر خودخواهانه بوده‌است. از آن‌جا که به زبان برنامه نویسی \texttt{C++}  علاقه‌مند هستم و قصد یادگیری آن‌را داشتم، در گشت و گذار اینترنتی هنگامی که به دنبال منابع بودم  با کتاب پیش رو آشنا شدم. همانگونه که در بخش مجوز مشاهده کردید، انتشار و ترجمه آن آزاد است. در نتیجه برآن شدم تا روش یادگیری حین ترجمه را تجربه کنم. از طرفی تصمیم گرفتم همسو با نویسنده، در نگارش کتاب نرم‌افزار قدرتمند حروف‌چینی لاتِکْ (\lr{\LaTeX})را با استفاده از بسته زی‌پرشین  (\lr{\XePersian}) به‌کار گیرم که جذابیت خاص خود را دارد. در نهایت برای کنترل منبعِ متن ترجمه، از نرم‌افزار \lr{git} و همسان‌سازی آن با \lr{github} در آدرس ذیل استفاده نمودم.
+
+
+\begin{latin}
+	\url{https://github.com/AllenDowney/ThinkCPP}
+	\
+%	\begin{lstlisting}[language=C++,
+%		style=myStyle]
+%	\end{lstlisting}
+	%
+	
+\end{latin}
+
+
+
+
+\
+\begin{flushleft}
+	کیارش بختیار، زمستان 1402
+	
+\end{flushleft}
+
+
+\frontmatter
+\tableofcontents
+
+\mainmatter
+\include{cha01_fa}
+
+\appendix
+\include{app1}
+
+\printindex
+
+\end{document}
+
+

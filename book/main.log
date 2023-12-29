@@ -1,0 +1,653 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.10)  27 MAR 2023 20:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+\epsfxsize=\dimen141
+\epsfysize=\dimen142
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+epsfig option `silent' ignored
+\@indexfile=\write3
+\openout3 = `main.idx'.
+
+Writing index file main.idx
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count190
+\l__color_backend_stack_int=\count191
+\g__color_backend_stack_int=\count192
+\g__graphics_track_int=\count193
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count194
+\g__pdf_backend_annotation_int=\count195
+\g__pdf_backend_link_int=\count196
+) (./main.aux (./cha1.aux) (./cha2.aux) (./cha3.aux)
+(./cha4.aux) (./cha5.aux) (./cha6.aux) (./cha7.aux) (./cha8.aux) (./cha9.aux)
+(./cha10.aux) (./cha11.aux) (./cha12.aux) (./cha13.aux) (./cha14.aux)
+(./cha15.aux) (./app1.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+3.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
+ [1
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 48.
+ [2]
+(./main.toc [1
+
+
+] [2] [3] [4])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [5] [6
+
+]
+\openout2 = `cha1.aux'.
+
+ (./cha1.tex
+Chapter 1.
+[1
+
+
+]
+File: interpret.eps Graphic file (type eps)
+<interpret.eps>
+File: compile.eps Graphic file (type eps)
+<compile.eps>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+[3] [4] [5] [6] [7] [8]) [9]
+\openout2 = `cha2.aux'.
+
+ (./cha2.tex [10
+
+
+
+
+]
+Chapter 2.
+[11]
+Overfull \hbox (1.5pt too wide) in paragraph at lines 78--78
+[]\TU/lmtt/m/n/10 int main(){cout<<"Goodbye, ";cout<<"cruel world!"<<endl;retur
+n 0;}[] 
+ []
+
+[12] [13]
+File: assign.eps Graphic file (type eps)
+<assign.eps>
+ [14]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 289--289
+[]  \TU/lmtt/m/n/10 cout << "The current time is " << hour << colon << minute <
+< endl;[] 
+ []
+
+[15] [16] [17] [18]) [19]
+\openout2 = `cha3.aux'.
+
+ (./cha3.tex [20
+
+
+
+
+]
+Chapter 3.
+[21] [22] [23] [24] [25] [26]
+Underfull \vbox (badness 3281) has occurred while \output is active []
+
+ [27]
+[28]
+File: stack.eps Graphic file (type eps)
+<stack.eps>
+
+Underfull \vbox (badness 1924) has occurred while \output is active []
+
+ [29]
+[30]) [31]
+\openout2 = `cha4.aux'.
+
+ (./cha4.tex [32
+
+
+
+
+]
+Chapter 4.
+[33] [34] [35] [36] [37] [38]
+File: stack2.eps Graphic file (type eps)
+<stack2.eps>
+ [39]) [40]
+\openout2 = `cha5.aux'.
+
+ (./cha5.tex
+Chapter 5.
+[41
+
+
+
+
+] [42] [43] [44] [45] [46] [47] [48] [49] [50]
+File: stack3.eps Graphic file (type eps)
+<stack3.eps>
+ [51] [52] [53]) [54]
+\openout2 = `cha6.aux'.
+
+
+(./cha6.tex
+Chapter 6.
+File: assign2.eps Graphic file (type eps)
+<assign2.eps>
+[55
+
+
+
+
+] [56] [57] [58] [59] [60] [61]
+File: stack4.eps Graphic file (type eps)
+<stack4.eps>
+ [62] [63] [64]) [65]
+\openout2 = `cha7.aux'.
+
+ (./cha7.tex [66
+
+
+
+
+]
+Chapter 7.
+[67] [68] [69] [70] [71] [72] [73]
+Overfull \hbox (22.5pt too wide) in paragraph at lines 483--483
+[]    \TU/lmtt/m/n/10 cout << "Your word, " << word << ", comes before banana."
+ << endl;[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 483--483
+[]    \TU/lmtt/m/n/10 cout << "Your word, " << word << ", comes after banana." 
+<< endl;[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 513--513
+[]    \TU/lmtt/m/n/10 cout << "The character " << letter << " is a letter." << 
+endl;[] 
+ []
+
+[74] [75]) [76]
+\openout2 = `cha8.aux'.
+
+ (./cha8.tex
+Chapter 8.
+[77
+
+
+
+
+]
+File: point.eps Graphic file (type eps)
+<point.eps>
+ [78] [79]
+File: point2.eps Graphic file (type eps)
+<point2.eps>
+ [80]
+File: point3.eps Graphic file (type eps)
+<point3.eps>
+ [81] [82]
+File: rectangle.eps Graphic file (type eps)
+<rectangle.eps>
+ [83] [84] [85] [86]) [87]
+\openout2 = `cha9.aux'.
+
+ (./cha9.tex [88
+
+
+
+
+]
+Chapter 9.
+File: time.eps Graphic file (type eps)
+<time.eps>
+[89]
+Overfull \hbox (206.25pt too wide) in paragraph at lines 93--93
+[]  \TU/lmtt/m/n/10 cout << "Time is " << t.hour << " hour " << t.minute << " m
+inutes " << t.second << "  seconds  "<<endl;[] 
+ []
+
+[90] [91] [92] [93] [94] [95] [96]) [97]
+\openout2 = `cha10.aux'.
+
+ (./cha10.tex [98
+
+
+
+
+]
+Chapter 10.
+File: vector.eps Graphic file (type eps)
+<vector.eps>
+
+Underfull \vbox (badness 1484) has occurred while \output is active []
+
+ [99]
+File: vector2.eps Graphic file (type eps)
+<vector2.eps>
+
+[100] [101] [102] [103] [104] [105] [106] [107] [108] [109]) [110]
+\openout2 = `cha11.aux'.
+
+ (./cha11.tex
+Chapter 11.
+[111
+
+
+
+
+]
+Overfull \hbox (33.0pt too wide) in paragraph at lines 97--97
+[]  \TU/lmtt/m/n/10 cout << time.hour << ":" << time.minute << ":" << time.seco
+nd << endl;[] 
+ []
+
+[112]
+Overfull \hbox (33.0pt too wide) in paragraph at lines 142--142
+[]  \TU/lmtt/m/n/10 cout << time.hour << ":" << time.minute << ":" << time.seco
+nd << endl;[] 
+ []
+
+[113] [114] [115] [116] [117] [118] [119] [120]) [121]
+\openout2 = `cha12.aux'.
+
+ (./cha12.tex [122
+
+
+
+
+]
+Chapter 12.
+[123] [124]
+File: apstringvector.eps Graphic file (type eps)
+<apstringvector.eps>
+
+Underfull \vbox (badness 1565) has occurred while \output is active []
+
+ [125]
+[126] [127] [128] [129]
+File: cardvector.eps Graphic file (type eps)
+<cardvector.eps>
+ [130] [131] [132] [133] [134]) [135]
+\openout2 = `cha13.aux'.
+
+ (./cha13.tex
+[136
+
+
+
+
+]
+Chapter 13.
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 30--30
+[]\TU/lmtt/m/n/10 enum Rank { ACE=1, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT,
+ NINE,[] 
+ []
+
+[137] [138]
+Overfull \hbox (59.25pt too wide) in paragraph at lines 125--125
+[]    \TU/lmtt/m/n/10 cout << "I only know how to perform addition and multipli
+cation" << endl;[] 
+ []
+
+
+Overfull \hbox (59.25pt too wide) in paragraph at lines 138--138
+[]    \TU/lmtt/m/n/10 cout << "I only know how to perform addition and multipli
+cation" << endl;[] 
+ []
+
+[139]
+File: deckobject.eps Graphic file (type eps)
+<deckobject.eps>
+ [140] [141] [142] [143] [144] [145] [146]) [147]
+\openout2 = `cha14.aux'.
+
+ (./cha14.tex [148
+
+
+
+
+]
+Chapter 14.
+[149] [150]
+File: coordinates.eps Graphic file (type eps)
+<coordinates.eps>
+ [151] [152] [153] [154] [155] [156] [157]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 592--592
+[]\TU/lmtt/m/n/10 // precondition: the current object contains valid polar coor
+dinates[] 
+ []
+
+
+Overfull \hbox (48.75pt too wide) in paragraph at lines 614--614
+[]    \TU/lmtt/m/n/10 "calculateCartesian failed because the polar representati
+on is invalid"[] 
+ []
+
+[158]
+Overfull \hbox (59.25pt too wide) in paragraph at lines 653--653
+[]\TU/lmtt/m/n/10 Complex.cpp:63: void Complex::calculatePolar(): Assertion `ca
+rtesian' failed.[] 
+ []
+
+[159]) [160]
+\openout2 = `cha15.aux'.
+
+ (./cha15.tex
+Chapter 15.
+
+Overfull \hbox (38.25pt too wide) in paragraph at lines 28--28
+[]\TU/lmtt/m/n/10 Seattle 2650    2000    3000    2150    1350    2300    3100 
+   1450    0[] 
+ []
+
+
+Overfull \hbox (69.75pt too wide) in paragraph at lines 28--28
+[]        \TU/lmtt/m/n/10 Atlanta Chicago Boston  Dallas  Denver  Detroit Orlan
+do Phoenix Seattle[] 
+ []
+
+[161
+
+
+
+
+]
+Overfull \hbox (6.75pt too wide) in paragraph at lines 89--89
+[]  \TU/lmtt/m/n/10 infile >> x;               // get a single integer and stor
+e in x[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 89--89
+[]  \TU/lmtt/m/n/10 getline (infile, line);    // get a whole line and store in
+ line[] 
+ []
+
+[162] [163] [164] [165] [166] [167] [168]
+File: set.eps Graphic file (type eps)
+<set.eps>
+ [169] [170] [171]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 744--744
+[]  \TU/lmtt/m/n/10 void add (const apstring& city1, const apstring& city2, int
+ dist);[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 744--744
+[]  \TU/lmtt/m/n/10 int distance (const apstring& city1, const apstring& city2)
+ const;[] 
+ []
+
+[172]) [173]
+\openout2 = `app1.aux'.
+
+ (./app1.tex [174
+
+
+
+
+]
+Appendix A.
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 12--12
+[]\TU/lmtt/m/n/10 http://www.collegeboard.org/ap/computer-science/html/quick_re
+f.htm[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 80--80
+[]\TU/lmtt/m/n/10 extern const int npos;  // used to indicate not a position in
+ the string[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 80--80
+[]  \TU/lmtt/m/n/10 apstring(const char * s);         // construct from string 
+literal[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 80--80
+[]  \TU/lmtt/m/n/10 const apstring & operator= (const apstring & str); // assig
+n str[] 
+ []
+
+[175]
+Overfull \hbox (64.5pt too wide) in paragraph at lines 80--80
+[]  \TU/lmtt/m/n/10 int find(const apstring & str) const;    // index of first 
+occurrence of str[] 
+ []
+
+
+Overfull \hbox (59.25pt too wide) in paragraph at lines 80--80
+[]  \TU/lmtt/m/n/10 int find(char ch) const;                 // index of first 
+occurrence of ch[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 80--80
+[]  \TU/lmtt/m/n/10 apstring substr(int pos, int len) const; // substring of le
+n chars,[] 
+ []
+
+
+Overfull \hbox (48.75pt too wide) in paragraph at lines 80--80
+[]  \TU/lmtt/m/n/10 const char * c_str() const;              // explicit conver
+sion to char *[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 80--80
+[]  \TU/lmtt/m/n/10 const apstring & operator+= (const apstring & str); // appe
+nd str[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 80--80
+[]  \TU/lmtt/m/n/10 const apstring & operator+= (char ch);              // appe
+nd char[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 80--80
+[]  \TU/lmtt/m/n/10 apstring operator+ ( const apstring & lhs, const apstring &
+ rhs );[] 
+ []
+
+[176]
+Overfull \hbox (64.5pt too wide) in paragraph at lines 111--111
+[]  \TU/lmtt/m/n/10 apvector();                                 // default cons
+tructor (size==0)[] 
+ []
+
+
+Overfull \hbox (69.75pt too wide) in paragraph at lines 111--111
+[]  \TU/lmtt/m/n/10 apvector(int size);                         // initial size
+ of vector is size[] 
+ []
+
+
+Overfull \hbox (64.5pt too wide) in paragraph at lines 111--111
+[]  \TU/lmtt/m/n/10 apvector(int size, const itemType & fillValue);  // all ent
+ries == fillValue[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 111--111
+[]  \TU/lmtt/m/n/10 int length() const;                            // capacity 
+of vector[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 111--111
+[]  \TU/lmtt/m/n/10 void resize(int newSize);               // change size dyna
+mically[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 111--111
+[]                                          \TU/lmtt/m/n/10 //can result in los
+ing values[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 144--144
+[]  \TU/lmtt/m/n/10 apmatrix();                                   // default si
+ze is 0 x 0[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 144--144
+[]  \TU/lmtt/m/n/10 apmatrix(int rows, int cols);                 // size is ro
+ws x cols[] 
+ []
+
+
+Overfull \hbox (48.75pt too wide) in paragraph at lines 144--144
+[]                                                \TU/lmtt/m/n/10 // all entrie
+s == fillValue[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 144--144
+[]  \TU/lmtt/m/n/10 apmatrix(const apmatrix & mat);               // copy const
+ructor[] 
+ []
+
+
+Overfull \hbox (38.25pt too wide) in paragraph at lines 144--144
+[]  \TU/lmtt/m/n/10 int numrows() const;                                  // nu
+mber of rows[] 
+ []
+
+
+Overfull \hbox (54.0pt too wide) in paragraph at lines 144--144
+[]  \TU/lmtt/m/n/10 int numcols() const;                                  // nu
+mber of columns[] 
+ []
+
+[177]
+Overfull \hbox (69.75pt too wide) in paragraph at lines 144--144
+[]  \TU/lmtt/m/n/10 void resize(int newRows, int newCols); // resizes matrix to
+ newRows x newCols[] 
+ []
+
+
+Overfull \hbox (38.25pt too wide) in paragraph at lines 144--144
+[]                                         \TU/lmtt/m/n/10 // (can result in lo
+sing values)[] 
+ []
+
+) [178]
+No file main.ind.
+(./main.aux (./cha1.aux) (./cha2.aux) (./cha3.aux) (./cha4.aux) (./cha5.aux)
+(./cha6.aux) (./cha7.aux) (./cha8.aux) (./cha9.aux) (./cha10.aux) (./cha11.aux)
+(./cha12.aux) (./cha13.aux) (./cha14.aux) (./cha15.aux) (./app1.aux)) ) 
+Here is how much of TeX's memory you used:
+ 1756 strings out of 476179
+ 33068 string characters out of 5809544
+ 331248 words of memory out of 5000000
+ 22377 multiletter control sequences out of 15000+600000
+ 472163 words of font info for 58 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 70i,8n,76p,216b,348s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (186 pages).
